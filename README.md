@@ -4,7 +4,7 @@
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
 
   ## Description 
-  This is a tracker that enables user to record their cadio and resistance workouts and display sums of their workout durations and weight lifted. It also allows user to view past workouts. 
+  This is a tracker that enables user to record their cardio and resistance workouts and display sums of their workout durations and weight lifted. It also allows user to view past workouts. 
 
   View the live application [here](https://gentle-fortress-64495.herokuapp.com/).
 
