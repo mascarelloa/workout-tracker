@@ -6,7 +6,7 @@
   ## Description 
   This is a tracker that enables user to record their cadio and resistance workouts and display sums of their workout durations and weight lifted. It also allows user to view past workouts. 
 
-  View the live application [here]().
+  View the live application [here](https://gentle-fortress-64495.herokuapp.com/).
 
   ## Table of Contents
   * [Installation](#Installation)
